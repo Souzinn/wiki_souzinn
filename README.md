@@ -1,8 +1,6 @@
-# Fala, eu sou o Victor Souza
+# Jarvis Analógico
 
-Sou desenvolvedor de software e estou sempre construindo, aprendendo e organizando conhecimento ao longo da minha jornada.
-
-Criei uma Wiki pessoal pra funcionar como meu “Jarvis analógico” — um lugar onde centralizo aprendizados, projetos, anotações e tudo que venho estudando na prática.
+Criei uma Wiki pessoal pra funcionar como meu “Jarvis analógico”, um lugar onde centralizo aprendizados, projetos, anotações e tudo que venho estudando na prática.
 
 Se quiser acompanhar minha evolução ou explorar os conteúdos:
 
