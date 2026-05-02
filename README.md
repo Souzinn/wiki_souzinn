@@ -5,7 +5,7 @@ Criei uma Wiki pessoal pra funcionar como meu “Jarvis analógico”, um lugar 
 Se quiser acompanhar minha evolução ou explorar os conteúdos:
 
 **Acesse minha Wiki:**
-[https://victors-organization-38.gitbook.io/dev-front](https://victors-organization-38.gitbook.io/dev-front)
+[[https://souzinn.github.io/wiki_souzinn](https://souzinn.github.io/wiki_souzinn/)]
 
 
 ## O que você vai encontrar lá
